@@ -1,4 +1,4 @@
-The file "Supplementary Materials.zip" contains the following:
+Here are the details of the files in this repository
 1.- "1_Data" folder that contains the data needed top reproduce the work:
 
 	1.a.- "TrainingData.csv" - This file contains collected materials for Thermal Expansion Coeeficient (TEC) from the aflow Database. 
